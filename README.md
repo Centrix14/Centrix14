@@ -14,3 +14,6 @@ I'm Artyom a 18 yo programmer (C, Common Lisp) and IT researcher (i haven't any 
 📖 Currently i learning functional and genetic programming.
 
 In real life. except programming i interested in poetery ✨ and phylosophy ☂️.
+
+### About name
+I'm russian, and my name maybe hard to pronounce to unprepared people, so i refer to IPA: ɐrˈtʲɵm.
