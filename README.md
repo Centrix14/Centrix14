@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 😃
+I'm Artyom a 18 yo programmer (C, Common Lisp) and IT researcher (i haven't any scientific regalia, i'm not a scientist).
 
-<!--
-**Centrix14/Centrix14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔨 Currently i work over ELI — an interpreter of one of the my experemental programming languages.
 
-Here are some ideas to get you started:
+🔭 I'm interested in various areas of IT:
+- Progremming languages design
+- Functional programming
+- Formal verification
+- Fundamentals of IT
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+😔 But, since i became a student, i haven't much time to study new things. For example: formal verification. I think, that is a very interesting area, unfortunately my knowleges of it, honestly speaking, insufficient. However, i endeavour, and fog of incomprehension, that exists in my head, soon will dissipate.
+
+📖 Currently i learning functional and genetic programming.
+
+In real life. except programming i interested in poetery ✨ and phylosophy ☂️.
