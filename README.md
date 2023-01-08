@@ -4,7 +4,7 @@ I'm Artyom a 18 yo programmer (C, Common Lisp) and IT researcher (i haven't any 
 🔨 Currently i work over ELI — an interpreter of one of the my experemental programming languages.
 
 🔭 I'm interested in various areas of IT:
-- Progremming languages design
+- Programming languages design
 - Functional programming
 - Formal verification
 - Fundamentals of IT
