@@ -1,7 +1,7 @@
 ### Hi there 😃
 I'm Artyom a 18 yo programmer (C, Common Lisp) and IT researcher (i haven't any scientific regalia, i'm not a scientist).
 
-🔨 Currently i work over ELI — an interpreter of one of the my experemental programming languages.
+🔨 Currently i work over conformist a pattern matching library for common lisp
 
 🔭 I'm interested in various areas of IT:
 - Programming languages design
