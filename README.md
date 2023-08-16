@@ -1,5 +1,5 @@
 ### Hi there 😃
-I'm Artyom a 18 yo programmer (C, Common Lisp) and IT researcher (i haven't any scientific regalia, i'm not a scientist).
+I'm Artyom a 19 yo programmer (C, Common Lisp) and IT researcher (i haven't any scientific regalia, i'm not a scientist).
 
 🔨 Currently i work over conformist a pattern matching library for common lisp
 
